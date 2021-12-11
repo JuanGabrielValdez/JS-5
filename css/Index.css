@@ -1,0 +1,40 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    background-color: darkslateblue;
+}
+      
+h1{
+        color: aquamarine;
+        text-align: center;
+    }
+
+.titulodos{
+        color: burlywood;
+        text-align: center;
+    }
+
+.otrotitulo{
+        color: darkorchid;
+    }
+
+#parrafo1{
+        font-size: 20px;
+    }
+
+.parrafo{
+    border: solid 2px;
+    margin-top: 25px;
+    margin-left: 50px;
+    margin-right: 45px;
+    margin-bottom: 80px;
+    padding-top: 50px;
+    padding-left: 45px;
+    padding-right: 60px;
+    padding-bottom: 80px;
+    text-align: justify;
+    background-color: aquamarine;
+    border-color: blueviolet;
+}
